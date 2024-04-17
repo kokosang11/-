@@ -55,3 +55,8 @@
 >H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
 >  
 >[프로젝트 상세 설명](https://github.com/JungHyung2/gitio.io) 참고
+
+</br>
+
+## :pushpin:
+> <b>인재개발원 언어지능기반 분석 서비스모델 개발자과정 수료</b> 2023.09.27~2024.04.17
