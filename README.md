@@ -1,28 +1,33 @@
-# 김연성 포트폴리오
->캐치 프레이즈 ( 나를 보여줄 수 있는 한마디 )
+# 꾸준하고 끈질긴 개발자 김연성
+> 
 2
 </br>
 
-## :pushpin: Intro
-(여기에 자기 소개)
+## :pushpin: 본인소개
+  - 오류가 해결되지 않는다면 끈질기게 매달려서 해결함
+  - 팀원들 간의 의견 조율을 잘함
+  - python, java에 관심이 많음
 
+## 기술스택
+  - Back-end : Python, fast-api, Java, Java Spring, Lang-chain, MySQL, ORACLE
+  - Front-end : HTML/CSS
+  - Devops : AWS, GCP
 </br>
 
 ## :pushpin: Contact
-- 이메일: wjdgud9420@gmail.com
-- 블로그: 
-- 깃헙: https://github.com/JungHyung2
+- 이메일: golddust312@gmail.com
+- 블로그: x
+- 깃헙: https://github.com/kokosang11
 
 </br>
 
 ## :pushpin: Projects
 ### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/HRGR.git)
->나의 프론트엔드 포트폴리오 (개인 프로젝트)  
->개발 기간: 2023.10.01 ~ 2023.11.05  
+>나의 백엔드 포트폴리오 (팀 프로젝트)  
+>개발 기간: 2023.10.01 ~ 2023.11.05
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
+>Java 8 / Java Spring / Maven / MySQL / import api
 >  
 >[프로젝트 상세 설명](https://github.com/2023-SMHRD-IS-AI1/HRGR.git) 참고
 
