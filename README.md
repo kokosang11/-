@@ -1,6 +1,5 @@
 # 꾸준하고 끈질긴 개발자 김연성
 > 
-2
 </br>
 
 ## :pushpin: 본인소개
@@ -9,7 +8,7 @@
   - python, java에 관심이 많음
 
 ## 기술스택
-  - Back-end : Python, fast-api, Java, Java Spring, Lang-chain, MySQL, ORACLE
+  - Back-end : Python, fast-api, Lang-chain, Java, Java Spring, Maven, MySQL, ORACLE
   - Front-end : HTML/CSS
   - Devops : AWS, GCP
 </br>
