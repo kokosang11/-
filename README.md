@@ -7,7 +7,7 @@
   - 팀원들 간의 의견 조율을 잘함
   - python, java에 관심이 많음
 
-## 기술스택
+## :pushpin: 기술스택
   - Back-end : <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
   - Front-end : <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   - Database : <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
@@ -23,7 +23,7 @@
 </br>
 
 ## :pushpin: Projects
-### 1. [포트폴리오](https://github.com/2023-SMHRD-IS-AI1/HRGR.git)
+### 1. [간편한 UI/UX를 이용한 농산물 전자상거래 플랫폼](https://github.com/2023-SMHRD-IS-AI1/HRGR.git)
 >나의 백엔드 포트폴리오 (팀 프로젝트)  
 >개발 기간: 2023.10.01 ~ 2023.11.05
 >  
